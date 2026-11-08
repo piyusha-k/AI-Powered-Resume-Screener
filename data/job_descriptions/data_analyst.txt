@@ -1,0 +1,30 @@
+Job Title: Data Analyst
+
+Overview
+Join a collaborative team delivering maintainable, measurable technology outcomes.
+
+Responsibilities
+- Prepare trustworthy datasets and define clear metric calculations.
+- Build dashboards that communicate trends to business partners.
+- Investigate data quality issues and record reproducible analysis steps.
+
+Mandatory Skills
+- SQL
+- Python
+- Pandas
+- Power BI
+- Tableau
+
+Preferred Skills
+- Excel
+- Apache Spark
+- AWS
+
+Experience Requirements
+- At least 2 years of relevant experience.
+
+Education Requirements
+- Bachelor's degree in Analytics, Business, or a related field.
+
+Certifications
+- Power BI or Tableau certification is helpful.

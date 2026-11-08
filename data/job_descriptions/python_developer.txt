@@ -1,0 +1,30 @@
+Job Title: Python Developer
+
+Overview
+Join a collaborative team delivering maintainable, measurable technology outcomes.
+
+Responsibilities
+- Build maintainable Python services and automation for internal product workflows.
+- Design API integrations, review changes, and improve test coverage.
+- Investigate defects and document reliable deployment practices.
+
+Mandatory Skills
+- Python
+- Django
+- REST APIs
+- PostgreSQL
+- Git
+
+Preferred Skills
+- Docker
+- pytest
+- AWS
+
+Experience Requirements
+- At least 2 years of relevant experience.
+
+Education Requirements
+- Bachelor's degree in Computer Science or equivalent experience.
+
+Certifications
+- AWS Certified Developer is a plus.

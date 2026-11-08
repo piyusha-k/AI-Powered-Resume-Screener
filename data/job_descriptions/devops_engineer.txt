@@ -1,0 +1,30 @@
+Job Title: DevOps Engineer
+
+Overview
+Join a collaborative team delivering maintainable, measurable technology outcomes.
+
+Responsibilities
+- Automate repeatable build, deployment, and infrastructure workflows.
+- Improve service reliability through monitoring and incident follow-up.
+- Maintain secure configuration and container orchestration practices.
+
+Mandatory Skills
+- Linux
+- Docker
+- Kubernetes
+- Terraform
+- CI/CD
+
+Preferred Skills
+- AWS
+- Azure
+- Python
+
+Experience Requirements
+- At least 3 years of relevant experience.
+
+Education Requirements
+- Bachelor's degree or equivalent practical experience.
+
+Certifications
+- An AWS, Azure, or Kubernetes certification is preferred.

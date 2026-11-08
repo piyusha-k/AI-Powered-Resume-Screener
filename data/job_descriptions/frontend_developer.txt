@@ -1,0 +1,30 @@
+Job Title: Frontend Developer
+
+Overview
+Join a collaborative team delivering maintainable, measurable technology outcomes.
+
+Responsibilities
+- Implement responsive, accessible interfaces from product requirements.
+- Build reusable components and maintain browser-based test coverage.
+- Profile page performance and collaborate on consistent interaction patterns.
+
+Mandatory Skills
+- JavaScript
+- TypeScript
+- React
+- HTML
+- CSS
+
+Preferred Skills
+- Angular
+- Vue
+- Jest
+
+Experience Requirements
+- At least 2 years of relevant experience.
+
+Education Requirements
+- Degree in Computer Science or equivalent portfolio experience.
+
+Certifications
+- Accessibility training is preferred.

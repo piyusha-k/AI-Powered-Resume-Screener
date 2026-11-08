@@ -1,0 +1,30 @@
+Job Title: AI Engineer
+
+Overview
+Join a collaborative team delivering maintainable, measurable technology outcomes.
+
+Responsibilities
+- Integrate machine-learning capabilities into reliable application services.
+- Evaluate model behavior and document quality, safety, and latency trade-offs.
+- Partner with product teams to validate AI-assisted workflows.
+
+Mandatory Skills
+- Python
+- Artificial Intelligence
+- Machine Learning
+- PyTorch
+- FastAPI
+
+Preferred Skills
+- Natural Language Processing
+- TensorFlow
+- Docker
+
+Experience Requirements
+- At least 3 years of relevant experience.
+
+Education Requirements
+- Bachelor's degree in Computer Science, AI, or a related field.
+
+Certifications
+- AI or cloud certifications are preferred.

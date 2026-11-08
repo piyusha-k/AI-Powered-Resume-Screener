@@ -1,0 +1,30 @@
+Job Title: Backend Developer
+
+Overview
+Join a collaborative team delivering maintainable, measurable technology outcomes.
+
+Responsibilities
+- Design versioned backend APIs and reliable data-access patterns.
+- Improve service observability, database performance, and test coverage.
+- Coordinate secure integrations with frontend and platform teams.
+
+Mandatory Skills
+- Java
+- Spring Framework
+- REST APIs
+- PostgreSQL
+- Docker
+
+Preferred Skills
+- Redis
+- Kubernetes
+- AWS
+
+Experience Requirements
+- At least 3 years of relevant experience.
+
+Education Requirements
+- Bachelor's degree or comparable experience.
+
+Certifications
+- Cloud certification is a plus.

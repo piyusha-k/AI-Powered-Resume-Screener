@@ -1,0 +1,30 @@
+Job Title: Full Stack Developer
+
+Overview
+Join a collaborative team delivering maintainable, measurable technology outcomes.
+
+Responsibilities
+- Deliver user-facing product features across browser interfaces and server APIs.
+- Work with designers to make responsive, accessible experiences.
+- Maintain data flows and integration tests across the application stack.
+
+Mandatory Skills
+- JavaScript
+- TypeScript
+- React
+- Node.js
+- SQL
+
+Preferred Skills
+- Docker
+- AWS
+- Jest
+
+Experience Requirements
+- At least 3 years of relevant experience.
+
+Education Requirements
+- Bachelor's degree or equivalent professional experience.
+
+Certifications
+- A relevant cloud certification is preferred.

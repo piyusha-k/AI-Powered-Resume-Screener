@@ -1,0 +1,30 @@
+Job Title: Machine Learning Engineer
+
+Overview
+Join a collaborative team delivering maintainable, measurable technology outcomes.
+
+Responsibilities
+- Operationalize model training and inference workflows for production use.
+- Monitor model quality, latency, and data changes with the engineering team.
+- Build reproducible pipelines and document model deployment decisions.
+
+Mandatory Skills
+- Python
+- Machine Learning
+- PyTorch
+- Docker
+- AWS
+
+Preferred Skills
+- TensorFlow
+- Kubernetes
+- MLflow
+
+Experience Requirements
+- At least 4 years of relevant experience.
+
+Education Requirements
+- Bachelor's degree in Computer Science or a related discipline.
+
+Certifications
+- Cloud or machine learning certification preferred.

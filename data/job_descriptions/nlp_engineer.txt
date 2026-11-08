@@ -1,0 +1,30 @@
+Job Title: NLP Engineer
+
+Overview
+Join a collaborative team delivering maintainable, measurable technology outcomes.
+
+Responsibilities
+- Develop language-processing pipelines for classification and information extraction.
+- Evaluate text models against representative examples and document limitations.
+- Collaborate on scalable services for search, tagging, and document workflows.
+
+Mandatory Skills
+- Python
+- Natural Language Processing
+- spaCy
+- Transformers
+- Machine Learning
+
+Preferred Skills
+- Sentence Transformers
+- PyTorch
+- FastAPI
+
+Experience Requirements
+- At least 3 years of relevant experience.
+
+Education Requirements
+- Bachelor's degree in Computer Science or Computational Linguistics.
+
+Certifications
+- Relevant NLP certification is a plus.
